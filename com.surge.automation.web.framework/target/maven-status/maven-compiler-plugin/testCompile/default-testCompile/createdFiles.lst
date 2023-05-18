@@ -1,0 +1,12 @@
+pageObjects/LoginPage.class
+hooks/GetPages.class
+stepDefinitions/HomeScreenSteps.class
+stepDefinitions/EventSteps.class
+stepDefinitions/SearchVideoSteps.class
+runnerTest/TestRunner.class
+pageObjects/EventPage.class
+hooks/GeneralHooks.class
+pageObjects/HomePage.class
+stepDefinitions/LoginSteps.class
+pageObjects/AcademyVideoPage.class
+pageObjects/BasePage.class
